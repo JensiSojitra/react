@@ -1,0 +1,12 @@
+body{
+  background-color: lavender;
+}
+h1{
+  text-align: center;
+  margin: 200px;
+  padding: 50px;
+  color: coral;
+  background-color: aquamarine;
+  border-radius: 10px;
+
+}
